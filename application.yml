@@ -6,8 +6,6 @@ spring:
       server:
         git:
           uri: ${USERPROFILE}/Desktop/config-server-repo
-
-          
 server:
   port: 8888
 
